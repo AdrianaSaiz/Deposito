@@ -1,4 +1,4 @@
-package cuentas;
+package cuentas;//los metodos estan aqui
 public class CCuenta {
 
 
