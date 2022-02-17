@@ -2,10 +2,10 @@ package cuentas;
 public class Main {
 
     public static void main(String[] args) {
-        cuenta_operativa(0);
+        operativa_cuenta(0);
     }
 
-	public static void cuenta_operativa(float cantidad) {
+	public static void operativa_cuenta(float cantidad) {
 		CCuenta cuenta1;
 		double saldoActual;
 		cuenta1 = new CCuenta("Antonio López","1000-2365-85-1230456789",2500,0);
